@@ -2,4 +2,4 @@
 just another repository
 
 
-This is just me learing, but hello :)
+This is just me learning, but hello :)
